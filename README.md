@@ -32,13 +32,16 @@ For any suggestions, please log an issue or submit a pull request.
 
 ## Exchanges
 
+- [Cryptsy](https://www.cryptsy.com/markets/view/132)
+- [COINS-E](https://www.coins-e.com/exchange/DOGE_BTC/)
 - [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
 - [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
-- [Cryptsy](https://www.cryptsy.com/markets/view/132)
 
 ## Trading Posts
 
 - [Dogemarket](http://www.reddit.com/r/dogemarket)
+- [The Crypto Marketplace](http://cryptomarketplace.net/)
+- [Cryptothrift](https://cryptothrift.com/)
 
 ## Faucets
 
