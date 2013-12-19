@@ -42,6 +42,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [Dogemarket](http://www.reddit.com/r/dogemarket)
 - [The Crypto Marketplace](http://cryptomarketplace.net/)
 - [Cryptothrift](https://cryptothrift.com/)
+- [Dogelist](http://dogelist.com/)
 
 ## Faucets
 
