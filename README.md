@@ -51,6 +51,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [Dogecoin Faucet](http://185.38.47.229/faucet/)
 - http://dogefoode.bidouille.org/
 - [In Doge We Trust](http://indogewetrust.com/faucet)
+- [FreeDoge](http://www.freedoge.com)
 
 ## Games
 
