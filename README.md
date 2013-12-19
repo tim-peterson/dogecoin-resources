@@ -30,6 +30,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://pool.paybtc.pl:9555/
 - http://pool.chunky.ms/
 - http://doge.minefor.co.in/
+- http://doge.coinium.org
 
 ## Exchanges
 
