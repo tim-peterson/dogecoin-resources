@@ -54,9 +54,9 @@ For any suggestions, please log an issue or submit a pull request.
 
 ## Games
 
+- [DogeDice](http://www.dogedice.com/)
 - [Such Gamble](http://suchgamble.pw/)
 - [Dogecasino](http://dogecasino.com/)
 - [Dogespin](http://dogespin.l8.lv/)
-- [DogeDice](http://www.dogedice.com/)
 - [Doge Pound](http://dogepound.l8.lv/)
 - http://implying.eu/doge/
