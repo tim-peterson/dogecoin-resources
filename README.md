@@ -33,6 +33,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://doge.coinium.org
 - http://pool.dogechain.info/
 - http://doge.poolminers.com/
+- http://doge.coinz.pw/
 
 ## Exchanges
 
