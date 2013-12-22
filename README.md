@@ -34,6 +34,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://pool.dogechain.info/
 - http://doge.poolminers.com/
 - http://doge.coinz.pw/
+- http://www.shibepool.com/
 
 ## Exchanges
 
