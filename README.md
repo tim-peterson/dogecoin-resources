@@ -83,7 +83,6 @@ For any suggestions, please log an issue or submit a pull request.
 
 ## Games
 
-- [DogeDice](http://www.dogedice.com/)
 - [Such Gamble](http://suchgamble.pw/)
 - [Dogecasino](http://dogecasino.com/)
 - [Dogespin](http://dogespin.l8.lv/)
@@ -92,3 +91,4 @@ For any suggestions, please log an issue or submit a pull request.
 
 ## Misc Services
 - [CryptFolio](https://cryptfolio.com/)
+- [Dogecoin Donation Button](https://gist.github.com/kentbrew/8077969)
