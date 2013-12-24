@@ -49,6 +49,13 @@ For any suggestions, please log an issue or submit a pull request.
 - http://www.shibepool.com/
 - http://hashpool.org/
 
+### P2P pool alliance (no sign up required, pool speed shared across nodes)
+- http://shitpost.asia/
+- http://doge.crypto49er.com/
+- http://doge-eu.crypto49er.com/
+- http://doge.lurkmore.com/
+
+
 ## Exchanges
 
 - [Cryptsy](https://www.cryptsy.com/markets/view/132)
