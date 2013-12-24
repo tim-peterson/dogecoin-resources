@@ -19,7 +19,6 @@ For any suggestions, please log an issue or submit a pull request.
 - [OS X client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Mac.zip)
 
 ## Online wallets
-- [Dogewallet](http://dogewallet.com/)
 - [InstaDoge](http://instadoge.net/)
 - [DogeVault](https://www.dogevault.com/)
 
