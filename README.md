@@ -63,6 +63,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
 - [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
 - [Vircurex.com Exchange](https://vircurex.com/welcome/index?alt=doge&base=btc&locale=en)
+- [BTER](https://bter.com/trade/doge_btc)
 
 ## Trading Posts
 
