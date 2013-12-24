@@ -4,12 +4,24 @@ A community driven list of Dogecoin resources to be listed on dogecoin.com
 For any suggestions, please log an issue or submit a pull request.
 
 - [Dogecoin Resources](#dogecoin-resources)
+	- [Desktop clients](#desktop-clients)
+	- [Wallets](#online-wallets)
         - [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
 	- [Trading Posts](#trading-posts)
 	- [Faucets](#faucets)
 	- [Games](#games)
+	- [Misc Services](#misc-services)
+
+## Desktop clients
+- [Windows client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Win.zip)
+- [OS X client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Mac.zip)
+
+## Online wallets
+- [Dogewallet](http://dogewallet.com/)
+- [InstaDoge](http://instadoge.net/)
+- [DogeVault](https://www.dogevault.com/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
@@ -18,6 +30,7 @@ For any suggestions, please log an issue or submit a pull request.
 
 - http://dogepool.pw
 - http://doge.luckyminers.com
+- http://doge.cryptoculture.net 
 - http://pool.testserverino.de
 - http://doge.netcodepool.org
 - http://doge.cryptopool.it
@@ -34,6 +47,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://doge.poolminers.com/
 - http://doge.coinz.pw/
 - http://www.shibepool.com/
+- http://hashpool.org/
 
 ## Exchanges
 
@@ -41,7 +55,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [COINS-E](https://www.coins-e.com/exchange/DOGE_BTC/)
 - [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
 - [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
-- [Vircurex.com Exchange] (https://vircurex.com/)
+- [Vircurex.com Exchange](https://vircurex.com/)
 
 ## Trading Posts
 
@@ -67,3 +81,6 @@ For any suggestions, please log an issue or submit a pull request.
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
 - http://implying.eu/doge/
+
+## Misc Services
+- [CryptFolio](https://cryptfolio.com/)
