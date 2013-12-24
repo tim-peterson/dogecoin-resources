@@ -6,7 +6,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [Dogecoin Resources](#dogecoin-resources)
 	- [Desktop clients](#desktop-clients)
 	- [Wallets](#online-wallets)
-        - [Local portals](#local-portals)
+	- [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
 	- [Trading Posts](#trading-posts)
