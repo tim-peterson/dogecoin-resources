@@ -48,6 +48,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://doge.coinz.pw/
 - http://www.shibepool.com/
 - http://hashpool.org/
+- http://doge.hash-to-coins.com
 
 ### P2P pool alliance (no sign up required, pool speed shared across nodes)
 - http://shitpost.asia/
