@@ -91,3 +91,4 @@ For any suggestions, please log an issue or submit a pull request.
 ## Misc Services
 - [CryptFolio](https://cryptfolio.com/)
 - [Dogecoin Donation Button](https://gist.github.com/kentbrew/8077969)
+- [Dogecoin Paper Wallet Generator](http://mariposan.github.io/dogecoinpaperwallet/)
