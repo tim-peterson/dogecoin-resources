@@ -55,7 +55,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://doge.crypto49er.com/
 - http://doge-eu.crypto49er.com/
 - http://doge.lurkmore.com/
-
+- http://p2pool.name:9555/
 
 ## Exchanges
 
