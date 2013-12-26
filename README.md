@@ -49,6 +49,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://www.shibepool.com/
 - http://hashpool.org/
 - http://doge.hash-to-coins.com
+- http://p00l.me
 
 ### P2P pool alliance (no sign up required, pool speed shared across nodes)
 - http://shitpost.asia/
