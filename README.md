@@ -81,6 +81,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://dogefoode.bidouille.org/
 - [In Doge We Trust](http://indogewetrust.com/faucet) (use promo code: install gentoo)
 - [FreeDoge](http://www.freedoge.com)
+- [Dogey Faucet](http://faucet.frd.mn/)
 
 ## Games
 
