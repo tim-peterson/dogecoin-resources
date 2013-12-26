@@ -51,13 +51,16 @@ For any suggestions, please log an issue or submit a pull request.
 - http://doge.hash-to-coins.com
 - http://p00l.me
 - https://pool.pm/
+- http://pool.dogecoin.sg/
+- http://dogeme.com/
 
-### P2P pool alliance (no sign up required, pool speed shared across nodes)
+### P2P Pools
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
 - http://doge-eu.crypto49er.com/
 - http://doge.lurkmore.com/
 - http://p2pool.name:9555/
+- http://doge.litemoons.com:9555/
 
 ## Exchanges
 
