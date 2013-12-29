@@ -28,6 +28,7 @@ For any suggestions, please log an issue or submit a pull request.
 
 ## Mining pools
 
+- https://doge.rapidhash.net
 - http://doge.hashfaster.com
 - http://dogepool.pw
 - http://doge.luckyminers.com
