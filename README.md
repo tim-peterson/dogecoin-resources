@@ -21,6 +21,7 @@ For any suggestions, please log an issue or submit a pull request.
 ## Online wallets
 - [InstaDoge](http://instadoge.net/)
 - [DogeVault](https://www.dogevault.com/)
+- [EasyDoge](http://easydoge.com/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
