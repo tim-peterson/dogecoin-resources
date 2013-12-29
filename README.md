@@ -54,6 +54,7 @@ For any suggestions, please log an issue or submit a pull request.
 - https://pool.pm/
 - http://pool.dogecoin.sg/
 - http://dogeme.com/
+- http://hashdogs.org/
 
 ### P2P Pools
 - http://shitpost.asia/
