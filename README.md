@@ -91,6 +91,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [FreeDoge](http://www.freedoge.com)
 - [Dogey Faucet](http://faucet.frd.mn/)
 - [Pawcett](http://pawcett.com)
+- [Wow Such Faucet](http://wowsuchfaucet.com.ar)
 
 ## Games
 
