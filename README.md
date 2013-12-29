@@ -12,6 +12,7 @@ For any suggestions, please log an issue or submit a pull request.
 	- [Trading Posts](#trading-posts)
 	- [Faucets](#faucets)
 	- [Games](#games)
+	- [Development](#development)
 	- [Misc Services](#misc-services)
 
 ## Desktop clients
@@ -99,6 +100,10 @@ For any suggestions, please log an issue or submit a pull request.
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
 - http://implying.eu/doge/
+
+## Development
+
+- [DogeCoin-JRPC](https://github.com/sinemetu1/DogeCoin-JRPC)
 
 ## Misc Services
 - [CryptFolio](https://cryptfolio.com/)
