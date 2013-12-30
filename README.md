@@ -58,6 +58,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://dogeme.com/
 - http://hashdogs.org/
 - http://doge.cryptominer.co/
+- http://teamdoge.com/
 
 ### P2P Pools
 - http://shitpost.asia/
