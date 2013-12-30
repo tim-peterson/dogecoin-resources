@@ -1,7 +1,7 @@
 # Dogecoin Resources
 A community driven list of Dogecoin resources to be listed on dogecoin.com
 
-For any suggestions, please log an issue or submit a pull request.
+For any suggestions, please submit a pull request. Additions should be appended to end of existing lists.
 
 - [Dogecoin Resources](#dogecoin-resources)
 	- [Desktop clients](#desktop-clients)
@@ -68,6 +68,8 @@ For any suggestions, please log an issue or submit a pull request.
 - http://p2pool.name:9555/
 - http://doge.litemoons.com:9555/
 - http://doge.st/
+- http://dogepool.glr.com:9555/
+- http://pro.doge.litemoons.com/
 
 ## Exchanges
 
@@ -103,6 +105,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [Dogecasino](http://dogecasino.com/)
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
+- [Pocket Rockets Casino](https://pocketrocketscasino.com/)
 - http://implying.eu/doge/
 
 ## Development
