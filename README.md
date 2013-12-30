@@ -57,13 +57,14 @@ For any suggestions, please log an issue or submit a pull request.
 - http://hashdogs.org/
 - http://doge.cryptominer.co/
 
-### P2P Pools
+### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
 - http://doge-eu.crypto49er.com/
 - http://doge.lurkmore.com/
 - http://p2pool.name:9555/
 - http://doge.litemoons.com:9555/
+- http://doge.st/
 
 ## Exchanges
 
