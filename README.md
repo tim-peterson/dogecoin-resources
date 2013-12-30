@@ -20,8 +20,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [OS X client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Mac.zip)
 
 ## Online wallets
-- [InstaDoge](http://instadoge.net/)
 - [DogeVault](https://www.dogevault.com/)
+- [Doge API](http://dogeapi.com/)
 - [EasyDoge](http://easydoge.com/)
 
 ## Local portals
