@@ -107,6 +107,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
 - [Pocket Rockets Casino](https://pocketrocketscasino.com/)
+- [DOGE CoinGames](http://doge.coingam.es/)
 - http://implying.eu/doge/
 
 ## Development
