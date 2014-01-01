@@ -18,6 +18,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Desktop clients
 - [Windows client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Win.zip)
 - [OS X client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Mac.zip)
+- [Source](https://github.com/dogecoin/dogecoin)
 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
