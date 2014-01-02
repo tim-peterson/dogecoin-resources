@@ -27,6 +27,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
+- [Chinese](http://bbs.ggcoin.net)
 
 ## Mining pools
 
