@@ -101,6 +101,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogey Faucet](http://faucet.frd.mn/)
 - [Pawcett](http://pawcett.com)
 - [Wow Such Faucet](http://wowsuchfaucet.com.ar)
+- [Silabsofts Faucet] (http://silabsoft.org/doge/index.php/)
 
 ## Games
 
@@ -110,6 +111,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doge Pound](http://dogepound.l8.lv/)
 - [Pocket Rockets Casino](https://pocketrocketscasino.com/)
 - [DOGE CoinGames](http://doge.coingam.es/)
+- [Doge Fights] (http://silabsoft.org/doge/dogefight.php/)
 - http://implying.eu/doge/
 
 ## Development
