@@ -113,6 +113,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DOGE CoinGames](http://doge.coingam.es/)
 - [Doge Fights] (http://silabsoft.org/doge/dogefight.php/)
 - http://implying.eu/doge/
+- [Doge Lotto](http://doge-lotto.com/)
 
 ## Development
 
