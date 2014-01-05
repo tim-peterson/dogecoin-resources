@@ -103,6 +103,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Pawcett](http://pawcett.com)
 - [Wow Such Faucet](http://wowsuchfaucet.com.ar)
 - [Silabsofts Faucet] (http://silabsoft.org/doge/index.php/)
+- [Doge faucet] (http://www.dogefaucet.com/)
 
 ## Games
 
