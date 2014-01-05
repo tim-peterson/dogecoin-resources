@@ -104,6 +104,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Wow Such Faucet](http://wowsuchfaucet.com.ar)
 - [Silabsofts Faucet] (http://silabsoft.org/doge/index.php/)
 - [Doge faucet] (http://www.dogefaucet.com/)
+- [Free Dogecoin Faucet](http://doge.freefaucet.com.ar)
 
 ## Games
 
