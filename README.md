@@ -27,7 +27,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
 - [Chinese](http://bbs.ggcoin.net)
-- [French] (http://www.dogecoinfan.com)
+- [French](http://www.dogecoinfan.com)
 
 ## Mining pools
 
@@ -38,7 +38,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.cryptoculture.net 
 - http://pool.testserverino.de
 - http://doge.netcodepool.org
-- http://doge.cryptopool.it
 - http://doge.pool.webxass.de
 - http://miner.coinedup.com/doge
 - http://doge.cryptovalley.com
