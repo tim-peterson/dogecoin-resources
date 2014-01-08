@@ -5,7 +5,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 - [Dogecoin Resources](#dogecoin-resources)
 	- [Desktop clients](#desktop-clients)
-	- [Wallets](#online-wallets)
+	- [Mobile wallets](#mobile-wallets)
+	- [Online wallets](#online-wallets)
 	- [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
@@ -16,9 +17,12 @@ For any suggestions, please submit a pull request. Additions should be appended 
 	- [Misc Services](#misc-services)
 
 ## Desktop clients
-- [Windows client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Win.zip)
-- [OS X client](https://github.com/dogecoin/dogecoin/releases/download/v1.2/dogecoin-qt-v12-Mac.zip)
+- [Windows client](https://github.com/dogecoin/dogecoin/releases/download/1.4/dogecoin-qt-v14-Win.zip)
+- [OS X client](https://github.com/dogecoin/dogecoin/releases/download/1.4/dogecoin-qt-v14-Mac.zip)
 - [Source](https://github.com/dogecoin/dogecoin)
+
+## Mobile wallets
+- [Android wallet](https://play.google.com/store/apps/details?id=de.langerhans.wallet)
 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
