@@ -78,6 +78,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://dogepool.glr.com:9555/
 - http://pro.doge.litemoons.com/
 - http://thecoinrush.com/
+- http://doge.jir.dk:22550
 
 ## Exchanges
 
