@@ -123,6 +123,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://implying.eu/doge/
 - [Doge Lotto](http://doge-lotto.com/)
 - [CasinoQT Lotto](http://casinoqt.com/lotto/)
+- [CoinsFortress HighLow](https://www.coinsfortress.com/)
 
 ## Development
 
