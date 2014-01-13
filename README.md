@@ -113,6 +113,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Games
 
+- [DogeCade](http://dogecade.com/)
 - [Such Gamble](http://suchgamble.pw/)
 - [Dogecasino](http://dogecasino.com/)
 - [Dogespin](http://dogespin.l8.lv/)
