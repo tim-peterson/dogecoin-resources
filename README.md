@@ -126,6 +126,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doge Lotto](http://doge-lotto.com/)
 - [CasinoQT Lotto](http://casinoqt.com/lotto/)
 - [CoinsFortress HighLow](https://www.coinsfortress.com/)
+- [Dogecoin POOL bet] (http://www.dogecoingame.eu/)
 
 ## Development
 
