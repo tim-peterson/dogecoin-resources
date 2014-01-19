@@ -67,6 +67,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://teamdoge.com/
 - https://doge.hashpersec.com/
 - http://doge.cryptostew.com
+- http://doge.mcminingpool.pw/
 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
