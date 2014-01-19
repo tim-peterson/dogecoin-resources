@@ -100,6 +100,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Faucets
 
+- [The Moon Race](http://www.moonrace.tk)
 - [Rapidhash Faucet](https://faucet.rapidhash.net)
 - [DogeCoinFaucet.com](http://dogecoinfaucet.com/)
 - [CryptoBucket Faucet](http://cryptobucket.com/dogefaucet.php)
