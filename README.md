@@ -79,6 +79,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://pro.doge.litemoons.com/
 - http://thecoinrush.com/
 - http://doge.jir.dk:22550
+- http://doge.p2nex.net:9555
 
 ## Exchanges
 
