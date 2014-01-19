@@ -82,6 +82,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.jir.dk:22550
 - http://doge.p2nex.net:9555
 - http://lovok.no-ip.com:9555
+- http://pool.dogecoin.tw:9555/
 
 ## Exchanges
 
