@@ -35,6 +35,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Mining pools
 
+- http://doge.pool.mn
 - http://doge.nonstopmine.com
 - https://doge.rapidhash.net
 - http://doge.hashfaster.com
