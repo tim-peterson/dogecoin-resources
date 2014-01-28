@@ -103,7 +103,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogemarket](http://www.reddit.com/r/dogemarket)
 - [The Crypto Marketplace](http://cryptomarketplace.net/)
 - [Cryptothrift](https://cryptothrift.com/)
-- [Dogelist](http://dogelist.com/)
+- [Dogeslist](http://dogeslist.org/)
 - [Shibe Mart](http://shibemart.com/)
 
 ## Faucets
