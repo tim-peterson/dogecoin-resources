@@ -145,3 +145,4 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [CryptFolio](https://cryptfolio.com/)
 - [Dogecoin Donation Button](https://gist.github.com/kentbrew/8077969)
 - [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
+- [DogeFetch: DOGE Display for Raspberry Pi](https://github.com/scriptingsoul/DogeFetch)
