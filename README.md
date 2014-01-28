@@ -101,6 +101,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [The Crypto Marketplace](http://cryptomarketplace.net/)
 - [Cryptothrift](https://cryptothrift.com/)
 - [Dogelist](http://dogelist.com/)
+- [Shibe Mart](http://shibemart.com/)
 
 ## Faucets
 
