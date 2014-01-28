@@ -125,7 +125,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 - [DogeCade](http://dogecade.com/)
 - [Such Gamble](http://suchgamble.pw/)
-- [Dogecasino](http://dogecasino.com/)
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
 - [Pocket Rockets Casino](https://pocketrocketscasino.com/)
@@ -137,6 +136,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [CoinsFortress HighLow](https://www.coinsfortress.com/)
 - [Dogecoin POOL bet](http://www.dogecoingame.eu/)
 - [DogeSlots](http://www.dogeslots.com/)
+- [Dogescore](http://www.dogescore.com/)
 
 ## Development
 
