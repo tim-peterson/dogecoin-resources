@@ -139,6 +139,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogecoin POOL bet](http://www.dogecoingame.eu/)
 - [DogeSlots](http://www.dogeslots.com/)
 - [Dogescore](http://www.dogescore.com/)
+- [Luckydoge](http://luckydoge.net/)
 
 ## Development
 
