@@ -145,6 +145,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Development
 
 - [DogeCoin-JRPC](https://github.com/sinemetu1/DogeCoin-JRPC)
+- [node-dogecoin](https://github.com/countable/node-dogecoin)
+- [Dogecoin Code Snippets](https://github.com/brotchie/dogecoin-code-snippets)
 
 ## Misc Services
 - [CryptFolio](https://cryptfolio.com/)
