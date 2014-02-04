@@ -71,6 +71,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.mcminingpool.pw/
 - http://77z.co/
 - http://doge.coinpooler.net/
+- http://doge.jtcpools.org
 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
@@ -109,6 +110,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Faucets
 
+- [Faucet.io](http://faucet.io)
+- [Phunsauce Dogecoin Faucet](http://phunsauce.com)
 - [The Moon Race](http://www.moonrace.tk)
 - [Rapidhash Faucet](https://faucet.rapidhash.net)
 - [DogeCoinFaucet.com](http://dogecoinfaucet.com/)
@@ -142,6 +145,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DogeSlots](http://www.dogeslots.com/)
 - [Dogescore](http://www.dogescore.com/)
 - [Luckydoge](http://luckydoge.net/)
+- [DogeFlip](http://dogeflip.com)
+- [Dogefights](http://dogefights.com/)
 
 ## Development
 
