@@ -7,6 +7,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 	- [Desktop clients](#desktop-clients)
 	- [Mobile wallets](#mobile-wallets)
 	- [Online wallets](#online-wallets)
+	- [REST API services](#rest-api-services)
 	- [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
