@@ -26,7 +26,10 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
-- [Doge API](http://dogeapi.com/)
+- [DogeAPI](http://dogeapi.com/)
+
+## REST API services
+- [DogeAPI](http://dogeapi.com/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
